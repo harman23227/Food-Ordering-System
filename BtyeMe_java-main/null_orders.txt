@@ -1,0 +1,31 @@
+Order ID: 1
+Items:
+  - A x 3 @ Rs.10.0
+Total: Rs.150.0
+Special Request: Yes (VIP)
+----------------------------------------------------
+Order ID: 1
+Items:
+  - A x 2 @ Rs.10.0
+Total: Rs.150.0
+Special Request: Yes (VIP)
+----------------------------------------------------
+Order ID: 1
+Items:
+  - D x 3 @ Rs.100.0
+Total: Rs.0.0
+Special Request: No
+----------------------------------------------------
+Order ID: 1
+Items:
+  - D x 2 @ Rs.100.0
+Total: Rs.0.0
+Special Request: No
+----------------------------------------------------
+Order ID: 1
+Items:
+  - B x 4 @ Rs.20.0
+  - A x 3 @ Rs.10.0
+Total: Rs.150.0
+Special Request: Yes (VIP)
+----------------------------------------------------
